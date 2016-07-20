@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4568F7D3A002B114F1012AAD9D798D1A098BEFBD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4568F7D3A002B114F1012AAD9D798D1A098BEFBD" : 0,
+    "6F21B520B96503A7DF64F8E8048D711ACF040841" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A3F3729C-6B71-489E-8D60-C4DD9B145813",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4568F7D3A002B114F1012AAD9D798D1A098BEFBD" : "TipsC_PeiniWo\/",
+    "6F21B520B96503A7DF64F8E8048D711ACF040841" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "hide static cells",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "hide static cells.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/peiniwo\/TipsC_PeiniWo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4568F7D3A002B114F1012AAD9D798D1A098BEFBD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/peiniwo\/TipsC-app-demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F21B520B96503A7DF64F8E8048D711ACF040841"
+    }
+  ]
+}

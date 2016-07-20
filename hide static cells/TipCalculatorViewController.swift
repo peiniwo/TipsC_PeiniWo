@@ -34,6 +34,8 @@ class TipCalculatorViewController: UITableViewController, UIPickerViewDataSource
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        self.billField .becomeFirstResponder()
+        
         let pickerView = UIPickerView()
         
         self.pickerView.delegate = self
