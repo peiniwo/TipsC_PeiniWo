@@ -14,7 +14,7 @@ The following **required** functionality is complete:
 The following **optional** features are implemented:
 * [X] Custom font
 * [ ] UI animations
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [X] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
@@ -22,6 +22,7 @@ The following **additional** features are implemented:
 
 - A UISwitch for the user in case they need to split the bill
 - A pickerview for the user to select how many people to split the bill
+- Add App icon, launch image and image on navigation bar
 
 ## Video Walkthrough 
 
@@ -33,7 +34,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Without any swift experience (only a 20-hour introduction class), I had to google and try everything after the video walkthrough.
+It took time, but I had learned a lot and had a lot of fun.
+I was trying to figure out how to make the shared average amount change while going back to change the tip percentages.
+Sadly I couldn't spend more time on this before find out the solution.
+
+The problem that I have is although I managed to figure out a way to make it work, I don't really know the meaning of each code I write.
+
 
 ## License
 
